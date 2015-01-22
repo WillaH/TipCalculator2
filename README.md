@@ -14,4 +14,4 @@ Notes: Changed the design and language a bit more, and added an app icon.
 
 Walk through:
 
-http://willatracosas.com/images/tips.gif
+http://willatracosas.com/images/tips2.gif
